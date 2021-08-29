@@ -698,5 +698,8 @@ header .icons #menu-bars{
     .order form .inputBox .input{
         width:100%;
     }
+    header {
+        width:inherit;
+    }
 
 }
